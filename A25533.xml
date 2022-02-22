@@ -1,0 +1,297 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a pamphlet entituled The humble apologie of the English Catholicks written by a Royalist before Christmas, 1666.</title>
+            <author>Royalist.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25533</idno>
+            <idno type="STC">Wing A3324</idno>
+            <idno type="STC">ESTC R16391</idno>
+            <idno type="EEBO-CITATION">13618241</idno>
+            <idno type="OCLC">ocm 13618241</idno>
+            <idno type="VID">100806</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25533)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100806)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 832:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a pamphlet entituled The humble apologie of the English Catholicks written by a Royalist before Christmas, 1666.</title>
+                  <author>Royalist.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Humble apologie of the English Catholicks.</term>
+               <term>Catholics --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Graham Hukill</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Graham Hukill</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100806:1"/>
+            <pb facs="tcp:100806:1"/>
+            <p>An Anſwer to a PAMPHLET, Entituled <hi>[The humble Apologie of the English Catholicks.]</hi> Written by a Royaliſt before Chriſtmas 1666. THUANUS, <hi>Miſeros Principes quibus de conjuratione non creditur niſi occiſis.</hi>
+            </p>
+            <figure/>
+            <p>Printed in the Year 1667.</p>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:100806:2"/>
+            <head>READER,</head>
+            <p>THis ſmall Paper was printed in hast, and by none of the skil<g ref="char:EOLhyphen"/>fullest hands or plaineſt Copyes: If therefore thou wilt over<g ref="char:EOLhyphen"/>look the miſtakes in poynting and correct theſe following errata's, it will bee but right to the Author and an help to thyſelfe.</p>
+            <p>Pag. 4. l, 16. <hi>dele</hi> be. p. l. 9. <hi>lege</hi> infortunately. <hi>ibid.</hi> l. 24. that of, <hi>lege</hi> of that. p. 7. l. 2. forts <hi>lege</hi> ſorts. <hi>ibid.</hi> l. 16. in <hi>lege</hi> is. l. 20. <hi>dele?</hi> l. 22. pro; <hi>lege?</hi> lin. ult. <hi>lege</hi> Inceſtuous. p. 8. l. 1. <hi>lege</hi> impoſſible. l. 13. <hi>lege</hi> much. p. 9. l. 17. <hi>lege</hi> both. l. penult. <hi>lege</hi> perſecutions. p. 10. l. 3. <hi>lege</hi> toleration. l. 8. againſt his <hi>lege</hi> againſt his. p. 11. l. 1. <hi>lege</hi> them. l. 8. your <hi>lege</hi> you. pag. 12. l. 3. of <hi>lege</hi> or. l. 4. <hi>dele,</hi> l. 28. None <hi>lege</hi> none. p. 13, l. 6. <hi>lege</hi> pamphlet. <hi>ibid. Margin.</hi> l. 6. the IV the <hi>lege</hi> the IV to the. p. 13. l. penult. <hi>lege</hi> ſince. p. 15. l. 10. <hi>lege</hi> Leaguers. lin. ult. which <hi>lege</hi> with. p. 16. ad l. 3. <hi>in Margin. lege</hi> Theſe Sixteen were the chiefe abettors of the <hi>League</hi> in <hi>Paris.</hi> l. 9. <hi>dele,</hi> lin. 10. <hi>lege</hi> greater. lin. 23. hy <hi>lege</hi> by. l. 34. repentance, for <hi>lege</hi> repentance for. <hi>ib.</hi> fact beeing <hi>lege</hi> fact; beeing.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:100806:2"/>
+            <head>An Anſwer to a Pamphlet, <hi>Ent<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uled [The humble Apologie of the Engliſh Catholicks.]</hi> Written by a Royaliſt before Chriſtmas 1666.</head>
+            <head type="sub">
+               <hi>THUANUS,</hi> Miſeros Principes quibus de conjuratione non creditur niſi occiſis.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F the Author of the Apologie could make good the beginning of his Diſcourſe, I could very heartily turn Apologiſt for him and his Friends. He ſay's right, (and the Divel ſpoke true when he cryed aloud that Jeſus was the Son of God) that the Arms which Chriſtians may uſe againſt lawful Powers in their ſeverities, are only prayers and tears; Thus far he ſpeakes like a Pro<g ref="char:EOLhyphen"/>teſtant, that is to ſay, a primitive Chriſtian; and it might have ſtood as a faire Character of his pretended innocen<g ref="char:EOLhyphen"/>cy, had he not foully beſpatter'd it in the ſequel with the dirt he caſts upon the face of Authority. But firſt it would be conſidered what it is that the Apologiſt would be at upon his frequent Compellation of his Lords and Gentlemen; is it to draw them to a firm combination with thoſe of his Roman party againſt all ſuch that shall queſtion the innocency of his Carriage and Intentions?
+<pb n="4" facs="tcp:100806:3" rendition="simple:additions"/>Nothing leſs it ſeems can ſatisfie or ſecure him; unleſs my Lords and Gentlemen, that is, the old conſtant Roya<g ref="char:EOLhyphen"/>liſt ſtand up for his advocate, he muſt fall under the heavy cenſure of his greateſt adverſaries, who, (to compleat the miſchief and miſery of it) are not only become his accu<g ref="char:EOLhyphen"/>ſers, but his inſulting judges, as he complains.</p>
+            <p>And now it is high time for my Lords and Gentlemen to remember their often vows to that party, and renounce all further conjunction with them, that have been the cauſe of ſo great calamity to the Nation, as he there tells them.</p>
+            <p>But is not this <hi>Divide &amp; Impera?</hi> and though they did not nip the plant in the bud, yet now being grown up &amp; not likely to anſwer them in the expected fruits, they will endeavor ſo to diſmember the party as may manifeſtly indanger the whole.</p>
+            <p>For what els mean thoſe words, <hi>let it never be be recorded in ſtory that you forgott your often vows to us in joyning to them</hi> (thoſe inſulting judges as he terms them before) <hi>that have been the cauſe of ſo great calamity to the Nation.</hi>
+            </p>
+            <p>Is not a diſunion here manifeſtly endeavoured? and that in direct contradiction to what was before proteſted? <hi>[far be it from Catholicks to perplex Parliaments.]</hi> To recon<g ref="char:EOLhyphen"/>cile this difference in the expreſſions will well become the Apologiſt before he anſwer the following objections which he makes his next task.</p>
+            <p>And here firſt he preſents his Catholick Party aſtonished even to admiration, at that calumny above the reſt that their principles are ſaid to be inconſiſtent with Govern<g ref="char:EOLhyphen"/>ment, and they themſelves thought ever prone to Rebel<g ref="char:EOLhyphen"/>lion; As if becauſe they account themſelves the only Or<g ref="char:EOLhyphen"/>thodox Chriſtians they muſt neceſſarily be very Loyal ſub<g ref="char:EOLhyphen"/>jects at the leaſt.</p>
+            <p>Indeed if they could make good the former we had rea<g ref="char:EOLhyphen"/>ſon to expect ſome complyance as to the latter; ſeeing Re<g ref="char:EOLhyphen"/>ligion hath its name,<note place="margin">Religio a religan<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o.</note> from that connexion and ſtrict con<g ref="char:EOLhyphen"/>junction it works in its Profeſſors, as with each other, ſo in
+<pb n="5" facs="tcp:100806:3" rendition="simple:additions"/>all, with that Government and Governour under which they have their common protection.</p>
+            <p>But how Orthodox and united Roman Catholicks are in the grounds of their belief, (the maine ingredient in the eſſence of Religion) hath ſufficiently appeared in the writeings of many, who have unanſwerably evinced the nullity of the Romaniſts Faith: whether ultimately reſolved into their vertual Church, the Pope with his Conclave, as the Jeſuites will have it; Or into the repreſentative Church, a General Councel, as others will have it; Or into both the former conjoynd, as others contend; Or <hi>(er<g ref="char:EOLhyphen"/>ranti nullus terminus)</hi> into the new mode of Orall tradition, as it is lately and clamorouſly urged by others who abo<g ref="char:EOLhyphen"/>minate the former. Yet though our Catholicks do thus ſtagger in the grounds of their faith, are they not more firm in their fealties, and Loyalties? ſurely their prin<g ref="char:EOLhyphen"/>ciples are every way conſiſting which the Government un<g ref="char:EOLhyphen"/>der which they live.</p>
+            <p>Nothing leſs, and it will plainly appeare if we conſider the Doctrine of their Church and their frequent practice.</p>
+            <p>To the former much need not be ſaid. That the Pope, the acknowledged head of their Church, hath a plenary power to excommunicate all Chriſtian Kings that will not cloſe with the Papal perſwaſion; and when they are excommuni<g ref="char:EOLhyphen"/>cated that they ceaſe to be Kings, that their ſubjects are ab<g ref="char:EOLhyphen"/>ſolved from all fealty and allegiance to them, yea may take up Arms againſt them and ſo murther them; All this is ſo notoriouſly known, that as no reall Roman Catholick will deny, ſo it were needleſs to urge further proof of it:<note place="margin">Becanus, Bellarm. Bozius, Molina, Campian. Stapleto. &amp;c.</note> He that hath leiſure may find enough of this in <hi>Alvarez, Mariana,</hi> and divers others that ſpeake expreſly enough at this rate; and hath it not been ſufficiently verified in the Roman Catholicks practice? Tis well known who encou<g ref="char:EOLhyphen"/>raged one <hi>Parry</hi> to murther Queen Elizabeth, what Pope it was that iſſued out his dreadfull excommunication ani<g ref="char:EOLhyphen"/>mateing the Subjects of England againſt her; And if you
+<pb n="6" facs="tcp:100806:4"/>will allow of <hi>Cardinal Perron's</hi> poſitive ſentence, he will tell you that that doctrine which renders Kings indepoſeable opens a gap to no leſſe then ſchiſme and hereſie, as if it were not only lawfull, but neceſſary to ſuppreſs what<g ref="char:EOLhyphen"/>ever they be, that will not conforme to the Popish Hie<g ref="char:EOLhyphen"/>rarchy.</p>
+            <p>He that should ſee a Soveraigne Prince holding the baſon whilſt the Pope washeth his hands; and another no leſs ſoveraigne holding the ſtirrup (though unfortunately miſ<g ref="char:EOLhyphen"/>taken in the ſide) whilſt he mounts up on horſebacke; Yea he that should ſee that Bishop of Rome treading on a great Prince his neck and abuſeing that of the Pſalmiſt for the Juſti<g ref="char:EOLhyphen"/>fication of his uſurped Power — <hi>Super Leonem &amp; Aſpi<g ref="char:EOLhyphen"/>dem, &amp;c.</hi> Cannot but conclude that <hi>Dominus Deus noſter Papa</hi> (as the Canoniſts ſtile him) will be the ſupreame Prince of the Chriſtian World and that all other Potentates muſt limit their Authority and Juriſdiction according to the meaſure of his <hi>placet.</hi>
+            </p>
+            <p>And now the premiſes conſidered (that upon the Po<g ref="char:EOLhyphen"/>pes excommunication Kings ceaſe to be ſuch, and ſtand lawfully expoſed to all Inſolences from their Subjects, (as hath already appeared;) I can not but very much wonder, that the Romaniſts ſhould be ſo angry with <hi>Cromwel, Brad<g ref="char:EOLhyphen"/>ſhaw,</hi> and the reſt that of hellish crue, for murthering our late Soveraigne of bleſſed memory. Were they not taught by thoſe Romiſh Fathers above cited to murther CHARLES STUART, and yet not kill the King? I dare boldly ſay that our late Republicarians have not one tenet that is deſtructive to Civil Government and the Soveraignity of Kings, that was not firſt broached by the Romaniſts, to whom we owe our late confuſions; Which hath anſwered the Predictions of <hi>Gondamore</hi> the Spanish Ambaſſador, who upon his return into Spaine gave out that he had kindled a fire in England which would burſt out into a flame forty years afterwards.</p>
+            <pb n="7" facs="tcp:100806:4" rendition="simple:additions"/>
+            <p>Not to inſiſt upon thoſe ſeverall diſguiſes, preſented by the Romaniſts in the late troubles under the habit of all ſorts of Mechanicks, Artiſts, Soldiers, and others, ſo to preach up &amp; foment the rebellion with our homebred Sectarians; this may ſuffice to demonſtrate how ill conſiſtent their prin<g ref="char:EOLhyphen"/>ciples are with our Engliſh Government, and conſequently how weakly they acquit themſelves of that Calumny they complain of even to admiration; But the Apologiſt hath his other pretences and will clear all objections that may encounter him in his way; it will be neceſſary to take a brief view of them.</p>
+            <p>And here firſt our Author amuſeth us with a pretended ſubmiſſion to lawful powers; begins then to boaſt how pa<g ref="char:EOLhyphen"/>tiently their party did beare with the proceedings of the preſent Parliament; how they uſed no tricks and ſubterfu<g ref="char:EOLhyphen"/>ges to nip their proceedings in the bud: (this in his expreſ<g ref="char:EOLhyphen"/>ſion.) And I would be glad to know what they could have done more then they did; what means he by this nipping in the bud? Would he have had another Gunpowder treaſon? To what purpoſe all this enumeration of our ſeverall Kings? <hi>Richard I. Edw. Long-shanks, Edw. III.</hi> and <hi>Henry the fift.</hi> their opinions of their Popish Subjects; In the firſt place it may be ſaid they were not ſo cleer-ſighted as Princes are in theſe days; that the Roman writers were not altogether ſo inſolent, plaine, and poſitive againſt the ſoveraignity of Kings as now.</p>
+            <p>As for the French Kings, they did very roundly maintaine their rights and ſoveraignties, haveing been ſufficiently tormented by their Popish ſubjects in the time of the <hi>Ligue;</hi> that what the Jeſuites were venting to the prejudice of Kings, was by cunning and inſinuation writeing one thing and makeing their French Kings believe another, as is uſual with that kind of People.</p>
+            <p>As for the Houſe of Auſtria, they have the greateſt de<g ref="char:EOLhyphen"/>pendances upon the Pope imaginable, &amp; the Pope has a very great tye upon that Houſe for by their inceſtious marriages
+<pb n="8" facs="tcp:100806:5"/>authoriſed by the Popes they make it impoſſible for them to throw off the Authority of the Pope, for should they do ſo, all of that Houſe would prove Baſtards; And now even in theſe our dayes the preſent King of Poland (in the life time of his Brother known by the name of <hi>Cardinal Caſimir</hi>) did marry his ſaid own Brothers Wife, and this was the policy of the Pope with our <hi>Henry</hi> the <hi>VIII</hi> in his diſpenſeing with his marrying his own Brothers Wife, that he might have as great a dominion over the Kings of England, as of Spaine.</p>
+            <p>As for the Authors branding this laſt Century that what was perpetrated now, was never done before, (as to <hi>Mary</hi> Queen of Scots, and our late Souveraigne.) I very much wonder at the impudence of the man, to mix theſe two actions. The firſt was done by lawful authority, for her being Queen of Scotland did not bereave Queen <hi>Elizabeth</hi> of her Sove<g ref="char:EOLhyphen"/>raignity, and I have heard it averred by learned and know<g ref="char:EOLhyphen"/>ing men, that the King of Scotland hath ſate in an English Parliament in former ages as a Peer of England; and then no wonder, nor injuſtice neither, that the Queen of Scot<g ref="char:EOLhyphen"/>land ſuffered death for her treaſon againſt the Queen.</p>
+            <p>As for the latter (the murther of our late Souveraigne of bleſſed and glorious Memory,) the action is without ex<g ref="char:EOLhyphen"/>ample, ſuch and ſo hainous a thing was never acted upon the Theatre of the World: And as I ſaid before, ſo I will againe, that the murther of that good King may properly enough be ſaid to be the abominable product of that accur<g ref="char:EOLhyphen"/>ſed doctrine of the Popes Infallibility, and his Soveraigni<g ref="char:EOLhyphen"/>ty over Kings; For thoſe accurſed Regicides, and mur<g ref="char:EOLhyphen"/>therers of that glorious King, did but a little alter the argu<g ref="char:EOLhyphen"/>ment; For that power which the Romaniſts lodged in the Pope, theſe wicked miſcreants placed in the People; They had heard there was a power above Kings, and inſtead of giveing it to the Pope, they gave it to the Peoples Repre<g ref="char:EOLhyphen"/>ſentative: And ſo fell this great King to the conſternation of the whole World, and for a memento to all Kings to
+<pb n="9" facs="tcp:100806:5"/>awake them out of their Lethargy and be an exhortation to them to vindicate their Supream Authority; We do all of us much commend the fidelity of <hi>Carlos, Whitegrave,</hi> and the <hi>Penderels,</hi> and <hi>Huddleſtone,</hi> and this Author is much miſ<g ref="char:EOLhyphen"/>taken if he think any of us do wish them ill; Wee have ſaid enough already to evidence that they effected that glorious and happy action, (happy I ſay to all theſe Nations) through ſome other Inſtigations then the principles of the Romish Religion; They were led thereto certainly by a hand Divine as well as aſſiſted by it; They carried English hearts about them at that time; But if they will Apoſtatize, tis none of my fault, for my part I am well content they be diſpenſed with as a marke put upon them for their miraculous preſer<g ref="char:EOLhyphen"/>ving our good King.</p>
+            <p>As for the ſtigmatized perſon; I muſt needs ſay for him that he laboured in the vineyard before the laſt houre of the day, and was very ready both with hand and pen, to pro<g ref="char:EOLhyphen"/>mote the Intereſts of the King for his reſtauration, and ther<g ref="char:EOLhyphen"/>fore that word of reproach might will have been left out.</p>
+            <p>That wee differ in religion is but too true; and we dare as boldly as yourſelves appeale to the day of Judgment. Some<g ref="char:EOLhyphen"/>thing yow ſay we differ; I ſay very much, els why does your Church damn ours? But this is not a place either to diſpute about Religion or expreſs wherein we vary. We are aſſured our Religion is the beſt; free from Superſtition, free from too much homelineſs; God and the King are beſt ſerved in our way; Our Church is Monarchicall as well as yours; but ſtill with a ſubordination to our Soveraign Temporal Prince. What our great Anceſtors were, wee ſhall not be ashamed to remember, nor the Converſion of England from Paga<g ref="char:EOLhyphen"/>niſme, which poſſibly (as all the World beſides converted from the like errors) did retaine ſome few Pagan Ceremo<g ref="char:EOLhyphen"/>nies, from which the Church of England was purified in the reformation of <hi>Edw. VI.</hi> and Queen <hi>Elizabeth;</hi> He does well to put us in mind of Romish perfecutions, are not we juſti<g ref="char:EOLhyphen"/>fied therby if we do the ſame to you?</p>
+            <pb n="10" facs="tcp:100806:6"/>
+            <p>
+               <hi>France</hi> forſooth is inſtanc'd, where the reformed Reli<g ref="char:EOLhyphen"/>gion is permitted, which I shall leave indifferent whether to attribute that tolleration to their vaſt numbers, or to the innocency of their tenets, not at all prejudiciall to Kings; this I am ſure, they own no Soveraigne above their Natural King, they have no forraigne juriſdictions in their ſpirituals, and as little in their Temporals; Let this be remembred they aſſiſted their <hi>Henry the III.</hi> againſt his Popish Rebels, even after the Maſſacre at Paris; and <hi>Henry the IIII.</hi> in his ſiege of <hi>Paris,</hi> when the Duke of <hi>Parma</hi> relieved it.</p>
+            <p>But as for the French King, he is no competent in<g ref="char:EOLhyphen"/>ſtance in this caſe; Had you ſingled out ſome <hi>Trent-Catholicks</hi> (ſuch our English Catholicks would be ac<g ref="char:EOLhyphen"/>knowledged) there had been a fairer colour for your Argument. When yow have found ſome Roman Catho<g ref="char:EOLhyphen"/>lick Princes of the Trent perſwaſion, allowing the ſame favours to known Proteſtants, you may more plauſibly plead for the like allowance; till when, by their Inqui<g ref="char:EOLhyphen"/>ſitions and ſuch like entertainments of proteſtants, they have preſcribed the Law for other Princes, towards thoſe that no leſs differ from them in matters of Religion.</p>
+            <p>Wee will wave the Maſſacre at <hi>Paris</hi> to come nearer home, what thinke you of the Maſſacre in <hi>Ireland,</hi> as a fore<g ref="char:EOLhyphen"/>runner of the <hi>English</hi> troubles? was not the Maſſacre and Rebellion in <hi>Ireland</hi> Countenanced, and owned by a Popes <hi>Nuntio?</hi> Let us draw nearer to theſe times and ſpeake of what paſſed within this twelvemonth; Was not the Popes Bull, an occaſion of Cornett <hi>Nangles</hi> Rebel<g ref="char:EOLhyphen"/>lion? Which had been as univerſal as the firſt, but that the Romish party there wanted ſtrength? The Author by mentioning the French Kings kindneſs to the French Pro<g ref="char:EOLhyphen"/>teſtants, puts me in mind to affirm he is much miſtaken; for that King has of late begun very much to perſecute them; He has taken from them moſt of their Churches, will not ſuffer them to educate their owne Children, and many other grievous punishments he does now inflict upon them, and it
+<pb n="11" facs="tcp:100806:6" rendition="simple:additions"/>may well be ſuſpected he intends yet more againſt them having already purged his guards of all of their belief.</p>
+            <p>The Author growes yet more impudent &amp; extravagant, for firſt he goes about to illegitimate Queen <hi>Elizabeth,</hi> &amp; then beſpatters the fame of our King <hi>Henry</hi> the <hi>VIII.</hi> and by that one may ſee where he has his breeding, and where he learn<g ref="char:EOLhyphen"/>ed to ſpeake contumeliouſly of Kings.</p>
+            <p>Your urge the Allegiance ſworn to Queen <hi>Mary;</hi> and tis no ſuch wonder conſidering the Artifices and Power of the Roman Catholicks at that time; But all Roman Catholicks will grant that Queen <hi>Maries</hi> Mother was King <hi>Henries</hi> Bro<g ref="char:EOLhyphen"/>thers Wife; Yes and it will be replyed that the Pope diſ<g ref="char:EOLhyphen"/>penced with the marriage; He did ſo, but <hi>S<hi rend="sup">t</hi> John the Baptist</hi> (whom our bleſſed Saviour honours with ſo high a teſtimony in the Goſpel) would not have done it, he condemned the like marriage in King <hi>Herod,</hi> &amp; had be lived in thoſe times would have done no leſs in Kings <hi>Henrys.</hi> Though perhaps the Pope like another <hi>Herod</hi> would have cut of his head too for that bold affront; yet the Popes power, though never ſo much revered in thoſe times could not then ſilence the ſuffrages of our Univerſities here, nor thoſe in forraign parts, who joyntly affirmed and confirmed, both the lawfulneſs, and neceſſity of King <hi>Henries</hi> Divorce from his Brothers Wife: which doth ſufficiently wipe off that filth, the Auth or from his impure mouth breathes out againſt that Queen of glorious memory; But King <hi>Henry</hi> the <hi>VIII.</hi> it ſeems is a great eye-ſore to you, and you will leave no place unſearched for ſome ſtones of re<g ref="char:EOLhyphen"/>proach to throw at him: yet if you would be pleaſed to caſt a ſerious eye upon divers of your Popes, the chief heads of your Church (you may find a full choice in the ninth &amp; tenth Centuries (beſides ſeveral others) and vvhen you have throughly peruſed the exact ſymmetry of their Carriage and practiſes (as deſcribed in ſome of your ovvne Authors, then turn your eye upon King <hi>Henry</hi> the <hi>VIII.</hi> &amp; you vvil readily I doubt not conclude the ſaynt to be on his ſide.</p>
+            <p>And making ſo bold with Princes, it would be a wonder
+<pb n="12" facs="tcp:100806:7" rendition="simple:additions"/>if Miniſters of State did ſcape his pen; and it may well be affirmed, that King <hi>James</hi> is wounded through <hi>Cecyls</hi> ſide, of rather that wiſe King himſelf is deeply pierced, for may not one thus underſtand the Apologiſt? <hi>Cecyl</hi> is compared to <hi>Vlyſſes</hi> &amp; King <hi>James</hi> to <hi>Cromwell.</hi> The whole Parliament, is likewiſe aſperſed by him, and according to the opinion of the Apologiſt, God is mocked every fift of November; ſo that God himſelf cannot ſcape him neither.</p>
+            <p>He inſiſts much upon the merit of thoſe of his Religion, that ventured their lives in the quarrel of the late King of glorious memory; Where this great merit lies I cannot well underſtand for theſe reaſons; Firſt they were his Subjects, and ſo they were in duty bound to fight for him; Secondly they were perſecuted by the <hi>Long Parliament,</hi> and that good King (upon pretence that he ſo much countenanced them) was perſecuted likewiſe for their ſakes, and ſo they were conſtrained to ſtand by him, and for him, for their own preſervation; And there is one of his Subjects of that Re<g ref="char:EOLhyphen"/>ligion that ſtipulated, and did drive a bargaine with the laſt King, before he would engage for him. The Author would have us beleive Dinner-bells are miſtaken for Maſs-bells: Doe the Papiſts dine at 6, 7, or 8 of the clock in the morning? All their Inſolencies the Author would perſuade us to attri<g ref="char:EOLhyphen"/>bute to the height of their zeale againſt Conſtables, or other perſons in authority formerly againſt the King; When it is very well known that dureing the Rebellion, when the late Rebels <hi>Cromwell</hi> and <hi>Bradshaw,</hi> and the reſt, were in humane appearance, confirmed in their Thrones; None were better uſed that went under the name of Cavaleers then Papiſts: &amp; now ſince the happy reſtauration of our gratious Soveraigne many of them indeavour to ſtrike in with the Fanaticks, de<g ref="char:EOLhyphen"/>ſiring them to join with them, and they will take an order with the Epiſcopal party; Theſe are the men that ſo much boaſt themſelves of their Loyalty.</p>
+            <p>As to the burning of <hi>London,</hi> God reward them according to their demerit, that were the authors of that diſmal and
+<pb n="13" facs="tcp:100806:7" rendition="simple:additions"/>execrable fire; This is moſt certaine, that the Papiſts re<g ref="char:EOLhyphen"/>joice much in thoſe ſad flames, and it is a common diſcourſe amongſt them, that the burning of that City is a happineſs to the Kingdome, and has cured it of the Rickets.</p>
+            <p>It is now time to draw to a concluſion, though perhaps ſome things in the Pamplet (being ſtuffed with many ridi<g ref="char:EOLhyphen"/>culous paſſages, and little pertinent to the purpoſe,) I have for brevities ſake omitted to ſpeake to.</p>
+            <p>For a farewell I will only add this to the Author; that if the Proteſtant aſſertors of his Majeſties Right, had been as few as thoſe he has ſet down in red letters of his party, He should here have been imitated by me; but our numbers are ſo vaſt, that many large folio's would not containe them.</p>
+            <p>But inſtead of the Apologiſt his bloody or red liſt, take here an extract of ſome things out of the Hiſtory of <hi>Henry the IV. of France,</hi> written by <hi>Hardouin de Perefix Biſhop of Rodez,</hi> for<g ref="char:EOLhyphen"/>merly Tutor to this French King <hi>Lewis,</hi> concerning the <hi>Ligue</hi> in <hi>France,</hi> called by its abettours the <hi>Sacred Vnios,</hi> ſupported by Popes, &amp; more eſpecially by <hi>Sextus Quintus,</hi> &amp; <hi>Gregory the XIV;</hi> &amp; entered into (by perſuaſion of the Roman Divines) by the Rebellious Roman Catholick Subjects of the two <hi>Henry's the III,</hi> &amp; <hi>IV;</hi> to oppoſe which they were moſt chiefly aſſiſted by their Proteſtant Subjects, who were always moſt ready to help them in time of extremity &amp; ſtill proved their beſt and moſt Loyal Subjects.</p>
+            <q>
+               <p>On all hands little notice is taken of <hi>Henry the IV.</hi> his right to the Crown of <hi>France,</hi>
+                  <note place="margin">Fol. 61. <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Author wr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> thus conce<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ing the ſuc<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſion of He the IV Crown o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> France. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> yeare of Lord.</note> becauſe he was removed above the ſeventh degree of blood from <hi>Henry the III. of France;</hi> beyond which there is no kindred as to private ſucceſſion. Beſides he was not of that Religion, which was ever profeſſed by the French Kings ever ſince King <hi>Clovis,</hi> and conſequently was uncapable of wearing the Crown, and bearing the title of <hi>Moſt Chriſtian, &amp;c.</hi>
+               </p>
+               <p>Some French Divines for the promotion of the League (&amp; ſince approoved of by Pope <hi>Sextus Quintus</hi>) did maintaine that that Prince ought to be depoſed,<note place="margin">Fol. 66 Popish p<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ciple con<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ning Kings Do. 158</note> that did not do his
+<pb n="14" facs="tcp:100806:8" rendition="simple:additions"/>duty, that power is only of God which is well regulated, otherwiſe when it is ill ordered it is not Authority but theevery: The words in the Original are thus — <hi>Qu'il n'y a que la puiſſance bien ordonne, que ſoit de Dieu; autrement quand elle eſt dereglee, que ce n'est pas autorite, mais brigandage, &amp; qu'il eſt auſſi abſurde de dire que celuy laſoit Roy, qui neſçait pas gouver<g ref="char:EOLhyphen"/>ner, &amp; qui est de pourveu d'entendement, comme de croire qu'un a vengle puiſſe ſervir de guide, ni qu'une ſtatuë immobile puiſſe faire mouvoir des hommes vivans.</hi>
+               </p>
+               <p>Then came newes from <hi>Rome,</hi>
+                  <note place="margin">Fol. 68. Ann. Do. 1585.</note> that the Pope <hi>Sextus Quin<g ref="char:EOLhyphen"/>tus</hi> who ſucceeded to <hi>Gregory the XIII.</hi> had approoved the <hi>League;</hi> and over and above, had thundered out his Bulls of excommunication againſt the King of <hi>Navar,</hi> &amp; the Prince of <hi>Condé,</hi> declareing them Hereticks, relaps, chiefs, fau<g ref="char:EOLhyphen"/>tors, and protectours of Hereſie, and as ſuch fallen into the Cenſures and penalties imported by the Laws &amp; Canons; deprived them, and their heirs, of all Lands and Dignities, and uncapable to ſucceed to any Principality whatſoever, and more eſpecially to the Kingdome of <hi>France,</hi> abſolveing their Subjects from their Oath of Allegiance with a com<g ref="char:EOLhyphen"/>mand not to obey them.</p>
+               <p>When <hi>Henry the IV.</hi> (then King of <hi>Navar</hi>) heard what the Pope had done againſt him,<note place="margin">Fol. 71. Ann. Do. 1585.</note> he ſent preſently to King <hi>Henry the III.</hi> to complaine therof, and let him know that it concernd him more then himſelf; That he might well thinke if the Pope tooke upon him, thus to determine of the ſucceſſion to his Kingdome, and declare a Prince of the blood uncapable of the Crown, he might afterwards pro<g ref="char:EOLhyphen"/>ceed further, and unthrone him, as heretofore Pope <hi>Zacha<g ref="char:EOLhyphen"/>rie</hi> had degraded <hi>Childerick the III.</hi>
+               </p>
+               <p>The Pope gives to the <hi>Duke of Joyeuſe</hi> all the King of <hi>Na<g ref="char:EOLhyphen"/>vars</hi> Territories.<note place="margin">Fol. 82, Ann. Do. 1587. Fol. 100. An. 1589. Fol. 101. Ann. Do. 1589.</note>
+               </p>
+               <p>
+                  <hi>Henry the III.</hi> is excommunicated by Pope <hi>Sextus Quintus.</hi> The <hi>Leaguers</hi> would have the <hi>Duke of Mayenne</hi> to take up<g ref="char:EOLhyphen"/>on him the title of <hi>King of France;</hi> which he refuſes but ac<g ref="char:EOLhyphen"/>cepts of another title which they give him to be <hi>Lieutenant
+<pb n="15" facs="tcp:100806:8" rendition="simple:additions"/>General</hi> of the <hi>State</hi> and <hi>Crowne of France,</hi> as if the Throne were emptie; the <hi>Leaguers</hi> breake the Kings great Seale and make a new one, on the one ſide wherof were the Arms or ſcut<g ref="char:EOLhyphen"/>cheon of <hi>France,</hi> and on the other an empty Throne, and this inſcription about that new Seale, <hi>[Charles Duke of Mayenne, Lieutenant of the State and Crown of France.]</hi>
+               </p>
+               <p>
+                  <hi>Henry the III.</hi> being killed by a Roman Prieſt called <hi>Jaques Clement</hi> a <hi>Jacobin,</hi> thoſe that did not oppoſe him,<note place="margin">Fol. <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> An<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 158<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> becauſe he was a Roman Catholick, did beleive themſelves obliged in Conſcience to joyn with the <hi>Leagners</hi> againſt the King of <hi>Na<g ref="char:EOLhyphen"/>varre</hi> now King of <hi>France</hi> by the death of the aforeſaid King <hi>Henry the III,</hi> becauſe he was an Hugenot; For the Papiſts of that Kingdome, do hold that none can be King of <hi>France,</hi> that is not a Roman Catholick.</p>
+               <p>The reproaches of the <hi>Pariſians,</hi>
+                  <note place="margin">Fol<g ref="char:punc">▪</g> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> An<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 159<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> the inſtant deſire of the <hi>Legat;</hi> (whom the Pope had ſent to countenance and uphold concerns of the <hi>League</hi>) &amp; the Spanish Cabal oblige the <hi>Duke of Mayenne</hi> to give battle to King <hi>Henry the IV. of France.</hi>
+               </p>
+               <p>
+                  <hi>Paris</hi> being beſieged by the French King,<note place="margin">Fol. <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Ann<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 159<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> the Popes <hi>Legat</hi> forgot and omitted nothing, that might encourage the <hi>Pariſians</hi> to hold out; he conſulted the <hi>Faculty of Divinity,</hi> and obtained from that ſociety ſuch reſolves againſt the <hi>Bearnois</hi> (for ſo was called by the <hi>Leaguers Henry the IV.</hi>) as he thought good; The <hi>Legat</hi> cauſed ſeveral proceſſions; and all Officers took an Oath of fidelity to the <hi>Holy Vnion;</hi> for ſo was the <hi>Ligue</hi> called by its abettors.<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note>
+               </p>
+               <p>In the mean while <hi>Sextus the V.</hi> dies, leaveing in the treaſury of the Church 5 Millions of gold; To him ſucceeded <hi>Vrban the VII.</hi> who dyed within 13 days, and to his <hi>Vrban</hi> ſucceeded <hi>Gregory the XIV.</hi> who with very much zeal ſupported the <hi>League.</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note>
+               </p>
+               <p>The King of <hi>Spaine</hi> was ſeconded by Pope <hi>Gregory XIV.</hi> in his aſſiſtances to the <hi>Leaguers</hi> who was much more eager and ear<g ref="char:EOLhyphen"/>neſt, then the ſaid King for them; For notwithſtanding all the entreaties, &amp; letters from the <hi>Lord of Luxemburgh</hi> (afterwards <hi>Duke of Piney,</hi>) and other Princes and Lords who continued which <hi>Henry the IV;</hi> &amp; being deaf likewiſe to the ſubmiſſions &amp;
+<pb n="16" facs="tcp:100806:9" rendition="simple:additions"/>remonſtrances made to him by the <hi>Marqueſſe of Piſany</hi> (depu<g ref="char:EOLhyphen"/>ted to the Pope from them) he very hotly imbraced the Inter<g ref="char:EOLhyphen"/>eſts of the <hi>Ligue;</hi> He kept correſpondence with the <hi>Sixteen</hi> receiving letters from them and writeing to them againe; the Pope moreover did prodigally lavish the Treaſure left him by <hi>Sextus Quintus,</hi> to raiſe an army of 12000 men, which he ſent to ſuccour and aſſiſt the <hi>League,</hi> the Command whereof he gave to Count <hi>Hercules Sfondrati</hi> his Nephew, (whom he made Duke of <hi>Montmortion,</hi> at that inſtant for the greater luſtre.) And this Army was ſeconded by a moni<g ref="char:EOLhyphen"/>tory, or Bull of excommunication, againſt all Prelates that should aſſiſt King <hi>Henry,</hi> and ſent this Bull by <hi>Marcellin Lon<g ref="char:EOLhyphen"/>driane</hi> his Nuntio with a great Quantity of mony to be diſtri<g ref="char:EOLhyphen"/>buted amongſt the <hi>Sixteen</hi> and other chiefs of that faction in the principal Cities of the Kingdome of <hi>France.</hi>
+               </p>
+               <p>The Parliament at <hi>Tours</hi> cauſed the Bull to be torn by the hands of the common hangman, and ordained ſeizure of the Popes <hi>Nuntio:</hi> On the other ſide the Parliament at <hi>Paris</hi> re<g ref="char:EOLhyphen"/>pelled this decree, ordaining that the Pope and his <hi>Nuntio</hi> muſt be obeyed.</p>
+               <p>King <hi>Henry</hi> receives ſuccours out of <hi>England,</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note> and from the Proteſtants of <hi>Germany,</hi> and then beſieges the City of <hi>Roan.</hi>
+               </p>
+               <p>King <hi>Henry</hi> turns Papiſt and is abſolved by the Archbishop of <hi>Bourges</hi> in the Abby Church of <hi>S. Denis;</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note> againſt the ſaid Bishop the Pope is very angry for abſolveing the King, and till he obtaine it of the Pope, his Rebellious Roman Catholick ſubjects refuſe to obey him; Neither would the Pope be perſuaded to grant the King his abſolution, till his Majeſty had upon the matter totally ſuppreſſed the <hi>League.</hi>
+               </p>
+               <p>
+                  <hi>Jean Chaſiel</hi> a young Student educated by the <hi>Jeſuites</hi> attempts to kill the King,<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note> but by good fortune only wounds him in the face, whereupon the ſociety of <hi>Jeſuites</hi> are banished out of <hi>France;</hi> and their Scholar is exe<g ref="char:EOLhyphen"/>cuted for this wicked and leud attempt.</p>
+               <p>King <hi>Henry the IV.</hi> is killed by <hi>Ravillac</hi> who never expreſſed any kind of ſorrow or repentance, for ſo wicked a fact being perſuaded he had done the Pope and Church of <hi>Rome</hi> a very acceptable ſervice, becauſe he thought that King was marching into <hi>Germany</hi> to overthrow the Roman Catholick faith there.</p>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:100806:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
